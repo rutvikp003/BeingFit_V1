@@ -14,6 +14,5 @@
 - **CSS** - Styling and responsiveness  
 - **JavaScript** - Interactivity and dynamic features  
 
-## 📷 Screenshots
 
-## 📂 Project Structure
+## Site: https://rutvikp003.github.io/BeingFit_V1/  
